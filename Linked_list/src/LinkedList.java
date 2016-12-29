@@ -168,7 +168,7 @@ public class LinkedList {
 		sll1.insertAtEnd(n5);
 		sll1.insert(2, 0);
 		System.out.println("the length of the singly linked list is "+ sll1.length());
-		System.out.println("the elements in the linked list are");
+		System.out.println("the elements:");
 		System.out.println(sll1);
 
 	}
